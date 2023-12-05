@@ -20,4 +20,5 @@ SELECT max_Ube, COUNT(*) FROM mosfet GROUP BY max_Ube;
 SELECT COUNT(*) FROM mosfet;
 DELETE FROM mosfet WHERE quantity < 25;
 SELECT COUNT(*) FROM mosfet;
+.exit
 размер файла 8кб
